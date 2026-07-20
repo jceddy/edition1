@@ -23,7 +23,7 @@ Obtaining fonts is left as an exercise for the reader.
 
 ## Working with a template
 
-Each template has everything you need to reproduce any card of that color in Edition 1. You should hide and show layers or groups to use the values needed for your card.
+Each template has everything you need to reproduce any card of that color in Edition 1. You should hide and show layers or groups to use the values needed for your card. First, copy the desired template out of [src/](src/) to your project folder and open it in Inkscape.
 
 ### Top dice
 
