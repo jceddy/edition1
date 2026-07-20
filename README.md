@@ -23,7 +23,7 @@ Obtaining fonts is left as an exercise for the reader.
 
 ## Working with a template
 
-Each template has everything you need to reproduce any card of that color in Edition 1. You should hide and show layers or groups to use the values needed for your card.
+Each template has everything you need to reproduce any card of that color in Edition 1. You should hide and show layers or groups to use the values needed for your card. First, copy the desired template out of [src/](src/) to your project folder and open it in Inkscape.
 
 ### Top dice
 
@@ -60,3 +60,15 @@ Editing the card rules text is a bit more involved. Here are the steps:
 2. If the card has single or double dice in the lower left, slide the right edge of `textbox > dice-spacer` to roughly match its bounds.
 3. Use Inkscape's ["Set Subtraction Frames"](https://wiki.inkscape.org/wiki/index.php/Release_notes/1.2#Text_Tool) feature to flow text around the dice and spacers. Make sure to select `rules-text`, `left-spacer`, `right-spacer`, `collation-spacer`, and `top-spacer` for sure, and `dice-spacer` if the card includes lower-left dice. From the **Text** menu, choose _Set Subtraction Frames_. Then resize the top and left/right spacers to center the text on the card text box.
 4. Copy/paste and unhide any needed dice glyphs to fill in gaps in the card text.
+
+## Alternative: quick use of rasterized images
+
+If you don't want to deal with Inkscape and (most of) the font stuff, you can use the ["sliced" images](sliced/) in any raster image editor to quickly hack together some cards.
+
+1. Start with a base image, like [sliced/base-b.png](base-b.png) for black. Layer a [rarity](sliced/rarity) on top of it, any [upper]() or [lower]() dice you need, and optionally the reminder icon. Then create your own text boxes for typing the card name and text.
+
+You'll still need the Beleran Plantin fonts if you want accurate card names and rules text. These slices are currently produced manually, thus are a lot of effort and likely won't be updated very frequently.
+
+## Fan content
+
+These templates iare unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
