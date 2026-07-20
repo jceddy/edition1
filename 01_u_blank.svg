@@ -28,16 +28,16 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.52410025"
-     inkscape:cx="403.54875"
-     inkscape:cy="553.32925"
+     inkscape:zoom="1.4823794"
+     inkscape:cx="206.0876"
+     inkscape:cy="875.61931"
      inkscape:window-width="1349"
      inkscape:window-height="881"
      inkscape:window-x="81"
-     inkscape:window-y="60"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      showguides="true"
-     inkscape:current-layer="g1"><sodipodi:guide
+     inkscape:current-layer="layer11"><sodipodi:guide
        position="77.07204,1010.1612"
        orientation="0,-1"
        id="guide1"
@@ -738,7 +738,7 @@
          y="984.71112"
          style="font-style:normal;font-variant:normal;font-weight:550;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham weight=550';letter-spacing:2.5px;word-spacing:0px;fill:url(#linearGradient10)">0005</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:550;font-stretch:normal;font-size:16px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=550';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;opacity:0.5;fill:url(#linearGradient14);stroke-width:0.64252"
+       style="font-style:normal;font-variant:normal;font-weight:550;font-stretch:normal;font-size:16px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=550';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;opacity:1;fill:url(#linearGradient14);stroke-width:0.64252"
        x="142.6254"
        y="984.90308"
        id="text10"
@@ -747,7 +747,7 @@
          id="tspan10"
          x="142.6254"
          y="984.90308"
-         style="letter-spacing:0px;fill:url(#linearGradient14)">Blur</tspan></text><text
+         style="letter-spacing:0px;fill:url(#linearGradient14)">Blue</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:550;font-stretch:normal;font-size:16px;font-family:Gotham;-inkscape-font-specification:'Gotham weight=550';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:none;stroke-width:0.64252"
        x="48.371574"
@@ -1916,27 +1916,27 @@
        inkscape:label="rules-text"><tspan
          x="84.857609"
          y="677.92328"
-         id="tspan7"><tspan
+         id="tspan16"><tspan
    style="font-weight:bold"
-   id="tspan6">After playing this mood</tspan> — If the discard pile </tspan><tspan
+   id="tspan15">After playing this mood</tspan> — If the discard pile </tspan><tspan
          x="109.67965"
          y="710.12329"
-         id="tspan8">has at least one card in it, this mood's value </tspan><tspan
+         id="tspan17">has at least one card in it, this mood's value </tspan><tspan
          x="79.887642"
          y="742.32331"
-         id="tspan11">becomes       . Then starting with the next player </tspan><tspan
+         id="tspan19">becomes       . Then starting with the next player </tspan><tspan
          x="91.255646"
          y="774.52332"
-         id="tspan12">in turn order, each player takes a random card </tspan><tspan
+         id="tspan20">in turn order, each player takes a random card </tspan><tspan
          x="79.775623"
          y="806.72333"
-         id="tspan13">from the discard pile and puts it into their hand. </tspan><tspan
+         id="tspan21">from the discard pile and puts it into their hand. </tspan><tspan
          x="70.969601"
          y="838.92334"
-         id="tspan24">Put the rest of the discard pile onto the bottom of </tspan><tspan
+         id="tspan22">Put the rest of the discard pile onto the bottom of </tspan><tspan
          x="244.57154"
          y="871.12335"
-         id="tspan25">the deck in a random order.</tspan></text><rect
+         id="tspan23">the deck in a random order.</tspan></text><rect
        style="display:inline;fill:none;stroke:none;stroke-width:1;stroke-dasharray:none"
        id="rect45"
        width="647.55518"
