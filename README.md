@@ -2,6 +2,8 @@
 
 These are [Inkscape](https://inkscape.org) templates for creating custom [Mood Swings](https://magic.wizards.com/en/news/announcements/introducing-mood-swings) cards. They're very close matches to Wizards of the Coast's Edition 1 printing. They're intentionally imperfect: one, because it's very hard to get a perfect match, and two, because they aren't intended for producing counterfeit cards.
 
+![Welcome card](assets/welcome.png)
+
 ## Installation/setup
 
 You'll need some software and fonts to work with these templates.
