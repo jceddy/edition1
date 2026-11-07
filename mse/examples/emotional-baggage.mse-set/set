@@ -1043,6 +1043,8 @@ card:
 	rules text:
 		<b>While in play</b> — The first time you play a red mood each turn, you may play an additional mood this turn.
 	collector number: X084
+	art: art-adrenaline.png
+	artist: Joseph Eddy
 card:
 	name: Ardor
 	frame color: red
