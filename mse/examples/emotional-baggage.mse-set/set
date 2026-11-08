@@ -113,6 +113,8 @@ card:
 	rules text:
 		<b>While in play</b> — The first time each turn you play a mood with the same number in its top right corner as another of your moods, you may play an additional mood this turn.
 	collector number: X009
+	art: art-affinity.png
+	artist: Joseph Eddy
 card:
 	name: Camaraderie
 	frame color: white
