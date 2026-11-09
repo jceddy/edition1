@@ -1057,7 +1057,7 @@ card:
 	lower die color: white
 	rarity: mythic
 	rules text:
-		<b>While in play</b> — Each of your red moods has its value increased by the number of red moods you have.
+		<b>While in play</b> — Each of your red moods has its value increased by the number of other red moods you have.
 	collector number: X085
 card:
 	name: Belligerence
@@ -1512,7 +1512,7 @@ card:
 	lower die color: black
 	rarity: uncommon
 	rules text:
-		<b>While in play</b> — This mood's value is <sym>6</sym> if there are five or more cards in the discard pile.
+		<b>While in play</b> — This mood's value is <sym>6</sym> if there are three or more cards in the discard pile.
 	collector number: X121
 card:
 	name: Reinvigoration
