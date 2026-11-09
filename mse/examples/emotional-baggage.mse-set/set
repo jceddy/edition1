@@ -439,6 +439,8 @@ card:
 	rules text:
 		<b>While in play</b> — This mood's value is <sym>6</sym> if you have four or more cards in your hand.
 	collector number: X035
+	art: art-anticipation.png
+	artist: Joseph Eddy
 card:
 	name: Candor
 	frame color: blue
