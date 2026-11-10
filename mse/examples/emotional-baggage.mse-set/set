@@ -1061,6 +1061,8 @@ card:
 	rules text:
 		<b>While in play</b> — Each of your red moods has its value increased by the number of other red moods you have.
 	collector number: X085
+	art: art-ardor.png
+	artist: Joseph Eddy
 card:
 	name: Belligerence
 	frame color: red
