@@ -738,6 +738,8 @@ card:
 	rules text:
 		<b>After playing this mood</b> — Choose a color. Put all other moods of the chosen color into the discard pile.
 	collector number: X059
+	art: art-atonement.png
+	artist: Joseph Eddy
 card:
 	name: Brooding
 	frame color: black
