@@ -1077,6 +1077,8 @@ card:
 	rules text:
 		<b>After playing this mood</b> — You may put all of your opponents' moods with a value of <sym>2</sym> or less into the discard pile.
 	collector number: X086
+	art: art-belligerence.png
+	artist: Joseph Eddy
 card:
 	name: Competitiveness
 	frame color: red
