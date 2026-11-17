@@ -752,6 +752,8 @@ card:
 	rules text:
 		<b>While in play</b> — At the start of each of your turns, you may put a card from the discard pile into your hand. If you do, discard a card from your hand.
 	collector number: X060
+	art: art-brooding.png
+	artist: Joseph Eddy
 card:
 	name: Composure
 	frame color: black
