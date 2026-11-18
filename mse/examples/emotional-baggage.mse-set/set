@@ -127,6 +127,8 @@ card:
 	rules text:
 		<b>After playing this mood</b> — If there are two or more green and/or blue moods, you may play an additional mood this turn.
 	collector number: X010
+	art: art-camaraderie.png
+	artist: Joseph Eddy
 card:
 	name: Compassion
 	frame color: white
