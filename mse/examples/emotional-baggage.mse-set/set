@@ -688,8 +688,8 @@ card:
 	lower die color: white
 	rarity: mythic
 	rules text:
-		<b>After playing this mood</b> — You may put a card from the discard pile on the bottom of the deck. If you do, draw a card.
-		<b>While in play</b> — Each time you play another mood, you may do this.
+		<b>After playing this mood</b> — You may put a card from the discard pile on the bottom of the deck. If you do, draw a card and you may play an additional mood this turn.
+		<b>While in play</b> — Each time you play another mood, you may put a card from the discard pile on the bottom of the deck. If you do, draw a card.
 	collector number: X055
 	designed by: Designed by Dr Potato
 card:
@@ -927,7 +927,7 @@ card:
 	lower die color: white
 	rarity: mythic
 	rules text:
-		<b>While in play</b> — Before scoring, each opponent with no cards in their hand puts one of their highest value moods into the discard pile.
+		<b>While in play</b> — Before scoring, each opponent with one or fewer cards in their hand puts one of their highest value moods into the discard pile.
 	collector number: X074
 card:
 	name: Nosiness
@@ -1044,7 +1044,7 @@ card:
 card:
 	name: Adrenaline
 	frame color: red
-	top die: 0
+	top die: 2
 	top die color: white
 	reminder icon: yes
 	lower die: none
@@ -1585,7 +1585,7 @@ card:
 	lower die color: white
 	rarity: uncommon
 	rules text:
-		<b>After playing this mood</b> — You may play an additional mood this turn from the discard pile if it has a <sym>0</sym>, <sym>1</sym>, <sym>2</sym>, or <sym>3</sym> in its top right corner.
+		<b>After playing this mood</b> — You may play an additional mood this turn from the discard pile if it has a <sym>0</sym>, <sym>1</sym>, or <sym>2</sym> in its top right corner.
 	collector number: X126
 card:
 	name: Urgency
