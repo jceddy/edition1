@@ -1027,7 +1027,7 @@ card:
 	lower die color: white
 	rarity: uncommon
 	rules text:
-		<b>After playing this mood</b> — Choose an opponent. That player puts one of their highest value moods into the discard pile.
+		<b>After playing this mood</b> — Choose an opponent who has as many or more moods than you. That player puts one of their highest value moods into the discard pile.
 	collector number: X082
 card:
 	name: Yearning
